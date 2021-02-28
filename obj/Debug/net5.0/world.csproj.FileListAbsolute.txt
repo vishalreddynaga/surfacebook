@@ -1,0 +1,16 @@
+C:\Users\vnaga\Videos\VSCODECSHARP\world\bin\Debug\net5.0\world.exe
+C:\Users\vnaga\Videos\VSCODECSHARP\world\bin\Debug\net5.0\world.deps.json
+C:\Users\vnaga\Videos\VSCODECSHARP\world\bin\Debug\net5.0\world.runtimeconfig.json
+C:\Users\vnaga\Videos\VSCODECSHARP\world\bin\Debug\net5.0\world.runtimeconfig.dev.json
+C:\Users\vnaga\Videos\VSCODECSHARP\world\bin\Debug\net5.0\world.dll
+C:\Users\vnaga\Videos\VSCODECSHARP\world\bin\Debug\net5.0\ref\world.dll
+C:\Users\vnaga\Videos\VSCODECSHARP\world\bin\Debug\net5.0\world.pdb
+C:\Users\vnaga\Videos\VSCODECSHARP\world\obj\Debug\net5.0\world.csprojAssemblyReference.cache
+C:\Users\vnaga\Videos\VSCODECSHARP\world\obj\Debug\net5.0\world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnaga\Videos\VSCODECSHARP\world\obj\Debug\net5.0\world.AssemblyInfoInputs.cache
+C:\Users\vnaga\Videos\VSCODECSHARP\world\obj\Debug\net5.0\world.AssemblyInfo.cs
+C:\Users\vnaga\Videos\VSCODECSHARP\world\obj\Debug\net5.0\world.csproj.CoreCompileInputs.cache
+C:\Users\vnaga\Videos\VSCODECSHARP\world\obj\Debug\net5.0\world.dll
+C:\Users\vnaga\Videos\VSCODECSHARP\world\obj\Debug\net5.0\ref\world.dll
+C:\Users\vnaga\Videos\VSCODECSHARP\world\obj\Debug\net5.0\world.pdb
+C:\Users\vnaga\Videos\VSCODECSHARP\world\obj\Debug\net5.0\world.genruntimeconfig.cache
